@@ -14,7 +14,10 @@ space => längre hopp)
 
 
 
-För att installera/köra spelet
+För att installera/köra spelet klicka på följande fil som visas på screenshoten nedan, därefter klicka på download och kör programmet!
+![Skärmbild (52)](https://user-images.githubusercontent.com/92086882/201544947-e5d9c23b-e726-4bf3-977b-386665152eca.png)
+
+
 
 
 En screenshot av hur spelet ser ut, objekten rör sig mot spelaren och man måste hoppa över de för att samla poäng:
