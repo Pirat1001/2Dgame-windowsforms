@@ -14,7 +14,7 @@ space => längre hopp)
 
 
 
-För att installera/köra programmet, bästa sättet är att gå in på filen forms2.cs och kopiera koden in till sin egna visual studio
+För att installera/köra spelet
 
 
 En screenshot av hur spelet ser ut, objekten rör sig mot spelaren och man måste hoppa över de för att samla poäng:
